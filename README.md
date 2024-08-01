@@ -8,6 +8,8 @@ For example, if discussing an issue in which a 404 message is being return to th
 
 ### PRs for improvements etc welcomed.
 
+Using [mermaid](https://mermaid.js.org/intro/) diagrams as code.
+
 ```mermaid
 sequenceDiagram
   title GPLS Flow reference rev 1.0.0
